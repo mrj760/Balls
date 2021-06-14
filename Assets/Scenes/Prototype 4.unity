@@ -164,7 +164,7 @@ MonoBehaviour:
   waveText: {fileID: 1260346706}
   waveTextMaxScale: {x: 1.5, y: 1.5, z: 1.5}
   growRate: 2
-  waveCount: 99
+  waveCount: 0
   flashy: {fileID: 2100000, guid: 9c0880e4cd8a8704e82b6940624b569a, type: 2}
   flashRate: 0.01
 --- !u!4 &112389062
